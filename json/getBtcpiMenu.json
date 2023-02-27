@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "en": "Buy BTCPi",
+    "zhHans": "购买 BTCPi",
+    "link": "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x4aaad68be1a2ac9886b72b9dae474f3edd2132d9",
+    "sort": 1,
+    "create_date": 1648804445
+  },
+  {
+    "id": 5,
+    "en": "SpacePi",
+    "zhHans": "SpacePi",
+    "link": "https://space-pi.com/#/",
+    "sort": 1,
+    "create_date": 1648824093
+  },
+  {
+    "id": 2,
+    "en": "BTCPi Mine",
+    "zhHans": "BTCPi 挖矿",
+    "link": "https://btc-pi.com/#/mine",
+    "sort": 2,
+    "create_date": 1648804489
+  },
+  {
+    "id": 9,
+    "en": "SPINFT",
+    "zhHans": "SPINFT",
+    "link": "https://spi-nft.com/#/",
+    "sort": 2,
+    "create_date": 1660647630
+  },
+  {
+    "id": 3,
+    "en": "SPISWAP",
+    "zhHans": "SPISWAP",
+    "link": "https://spi-swap.com/swap?inputCurrency=BNB&outputCurrency=0x4aaad68be1a2ac9886b72b9dae474f3edd2132d9",
+    "sort": 15,
+    "create_date": 1648804538
+  },
+  {
+    "id": 8,
+    "en": "Audit",
+    "zhHans": "审计",
+    "link": "http://odex.vip/?sign=0d4b7116ecd744ceeb84f03c1c9ce359",
+    "sort": 100,
+    "create_date": 1657283391
+  }
+]

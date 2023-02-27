@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2,
+    "en": "BTCPi Mine",
+    "zhHans": "BTCPi 挖矿",
+    "staus": 0,
+    "sort": 1,
+    "link": "https://btc-pi.com/#/mine",
+    "create_date": 1648713816
+  },
+  {
+    "id": 1,
+    "en": "Buy BTCPi",
+    "zhHans": "购买 BTCPi",
+    "staus": 1,
+    "sort": 2,
+    "link": "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
+    "create_date": 1648713794
+  },
+  {
+    "id": 4,
+    "en": "BTCPi INFO",
+    "zhHans": "BTCPi INFO",
+    "staus": 1,
+    "sort": 3,
+    "link": "https://gopluslabs.io/token-security/56/0x69b14e8D3CEBfDD8196Bfe530954A0C226E5008E",
+    "create_date": 1648720634
+  },
+  {
+    "id": 3,
+    "en": "BTCPi Trend",
+    "zhHans": "BTCPi 趋势",
+    "staus": 1,
+    "sort": 4,
+    "link": "",
+    "create_date": 1648718156
+  }
+]
